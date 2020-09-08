@@ -1,1 +1,4 @@
-# pictures
+
+# pictures cdn
+
+jsdelivr + github
